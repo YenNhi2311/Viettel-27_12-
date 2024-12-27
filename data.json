@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "5G135",
+    "price": "135.000",
+    "text1": "Miễn phí TV360 4K, 20GB Mybox",
+    "categories": ["app"],
+    "text2": "4GB/ngày"
+  },
+  {
+    "id": 2,
+    "name": "5G150",
+    "price": "150.000",
+    "text1": "Miễn phí TV360 HD, 50GB Mybox",
+    "categories": ["app"],
+    "text2": "6GB/ngày"
+  },
+  {
+    "id": 3,
+    "name": "5G160B",
+    "price": "160.000",
+    "text1": "Miễn phí gọi nội mạng(10p/cuộc)",
+    "categories": ["product"],
+    "text2": "4GB/ngày"
+  },
+  {
+    "id": 4,
+    "name": "5G180B",
+    "price": "180.000",
+    "text1": "Miễn phí gọi nội mạng(10p/cuộc)",
+    "categories": ["product"],
+    "text2": "6GB/ngày"
+  },
+  {
+    "id": 5,
+    "name": "5G230B",
+    "price": "230.000",
+    "text1": "Miễn phí gọi nội mạng(10p/cuộc)",
+    "categories": ["product"],
+    "text2": "6GB/ngày"
+  },
+  {
+    "id": 6,
+    "name": "5G280B",
+    "price": "280.000",
+    "text1": "Miễn phí gọi nội mạng(20p/cuộc)",
+    "categories": ["product"],
+    "text2": "10GB/ngày"
+  },
+  {
+    "id": 7,
+    "name": "5G330B",
+    "price": "330.000",
+    "text1": "Miễn phí gọi nội mạng(20p/cuộc)",
+    "categories": ["product"],
+    "text2": "12GB/ngày"
+  },
+  {
+    "id": 8,
+    "name": "5G380B",
+    "price": "380.000",
+    "text1": "Miễn phí gọi nội mạng(20p/cuộc)",
+    "categories": ["product"],
+    "text2": "15GB/ngày"
+  },
+  {
+    "id": 9,
+    "name": "5G480B",
+    "price": "480.000",
+    "text1": "Miễn phí gọi nội mạng(20p/cuộc)",
+    "categories": ["product"],
+    "text2": "20GB/ngày"
+  },
+  {
+    "id": 10,
+    "name": "5GLQ190",
+    "price": "190.000",
+    "text1": "Miễn phí 2G/ngày chơi Liên Quân",
+    "categories": ["branding"],
+    "text2": "6GB/ngày"
+  },
+  {
+    "id": 11,
+    "name": "5GLQ210",
+    "price": "210.000",
+    "text1": "Miễn phí gọi nội mạng(20p/cuộc)",
+    "categories": ["branding"],
+    "text2": "6GB/ngày"
+  }
+]
