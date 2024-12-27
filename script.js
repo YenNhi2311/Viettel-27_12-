@@ -56,7 +56,7 @@ async function renderData() {
                             </div>
                           <div class="card-footer ">
               <a class="button btn-success ms-2" href="sms:290?body=${encodeURIComponent(
-                item.name + "_ 0966651627"
+                item.name + " 0966651627"
               )}">Đăng Ký</a>
             </div>
                         </div>
